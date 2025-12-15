@@ -35,8 +35,8 @@
     The code you entered <strong>(1344.299.6)</strong> corresponds to a valid certificate,<br>
     <strong>BST - Servtec</strong>,<br>
     issued on <strong>2024-10-18</strong> and belonging to<br>
-    <strong>SALHE GREGORIO ALLY</strong>,<br>
-    born in <strong>LUANDA, ANGOLA</strong> on <strong>1993-05-21</strong>.
+    <strong>EDUARDO LULA JOSÉ</strong>,<br>
+    born in <strong>M'BANZA CONGO, ANGOLA</strong> on <strong>1979-01-22</strong>.
     </p>
   </div>
 </body>
